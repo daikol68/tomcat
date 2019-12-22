@@ -82,16 +82,6 @@
                                 </source>
                             </sources>
                         </mapping>
-                        <mapping>
-                            <directory>${rpm.home}/tomcat8-instances</directory>
-                            <username>${rpm.user}</username>
-                            <groupname>${rpm.group}</groupname>
-                            <sources>
-                                <source>
-                                    <location>src/main/resources/tomcat8-instances</location>
-                                </source>
-                            </sources>
-                        </mapping>
                     </mappings>
                     <preinstallScriptlet>
                         <script>
