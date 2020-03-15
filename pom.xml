@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.apache.tomcat8</groupId>
     <artifactId>tomcat8</artifactId>
-    <version>8.0.53</version>
+    <version>8.0.53-SNAPSHOT</version>
     <name>Tomcat 8</name>
     <description>Installiert den Tomcat 8.</description>
 
